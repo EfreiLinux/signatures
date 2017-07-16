@@ -1,6 +1,6 @@
 # Signatures
 
-> Générateur de signatures pour le BDE Groupe Efrei
+> Générateur de signatures pour Efrei-Linux
 
 ## Build Setup
 
