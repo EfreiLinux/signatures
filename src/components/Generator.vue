@@ -45,7 +45,7 @@
       <div class="panel-heading">Voici votre signature</div>
       <div class="panel-body" id="signature">
         <div style="float: left; margin: 2px 5px 5px 0px; padding-right: 5px; display: block;">
-          <img src="./efrei-linux-logo.png" width="90px" height="90px">
+          <img src="https://public.alexandre-martin.fr/EfreiLinux/logo.png" width="90px" height="90px">
         </div>
         <div style="margin-top:0px; margin-left: 110px">
           <p style="font-family: Helvetica, sans-serif; font-size: 12px; line-height: 14px; color: #333; margin-top:0; margin-left:0; padding-left:0;">
